@@ -20,7 +20,7 @@
 
 /*__write_selector_here__*/ 
 img[id="basket"]
-  position: absolute;
+  { position: absolute;
   z-index: 5;
   top: 291px;
   left: 319px;
